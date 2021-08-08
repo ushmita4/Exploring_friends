@@ -8,7 +8,7 @@
 ### 6. Saswat Sovan 😄
 ### 7. Subham Sourav Brahma 😄
 ### 8. Sweta Rani 😄
-## Rules to be followed contributing:-
+## Rules to be followed while contributing:-
 ### 1) First fork the repository.
 ### 2) Raise an issue explaining what you wish to contribute. Once you are assigned go ahead.
 ### 3) Make a separate folder of your name and make all your contributions there. Raise a Pull Request. In the description write your issue number and explain.
