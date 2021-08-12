@@ -35,7 +35,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfH2-Ij2kK-y00QnOSCQIBsZo8x3oqB0bRKUEez
 ## `Wanna Contribute :thinking: `
 
 
-**1.** Fork the Exploring_friends repository.
+**1.** Fork the Exploring_friends repository. :thinking:
 
 **2.** Clone the forked repository.
 
