@@ -2,20 +2,22 @@
 
 ## `The contributors are here as follows:- 🕶️`
 
-### 1. Anupam Shaw :man_technologist:
-### 2. Arpita Gupta :woman_technologist:
-### 3. Harsh Kumar :man_technologist:
-### 4. Rinki Kumari :woman_technologist:
-### 5. Sambit Swarup :man_technologist:
-### 6. Saswat Sovan :man_technologist:
-### 7. Subham Sourav Brahma :man_technologist:
-### 8. Sweta Rani :woman_technologist:
+**1.** Anupam Shaw :man_technologist:
+**2.** Arpita Gupta :woman_technologist:
+**3.** Harsh Kumar :man_technologist:
+**4.** Rinki Kumari :woman_technologist:
+**5.** Sambit Swarup :man_technologist:
+**6.** Saswat Sovan :man_technologist:
+**7.** Subham Sourav Brahma :man_technologist:
+**8.** Sweta Rani :woman_technologist:
+
 ## Rules to be followed while contributing:-
-### 1) First fork the repository.
-### 2) Raise an issue explaining what you wish to contribute. Once you are assigned go ahead.
-### 3) Make a separate folder of your name and make all your contributions there. Raise a Pull Request. In the description write your issue number and explain.
-### 4) Wait for the Pull Request to get merged.
-### 5) After the successful merging fill the google form attached - 
+
+**1.** First fork the repository.
+**2.** Raise an issue explaining what you wish to contribute. Once you are assigned go ahead.
+**3.** Make a separate folder of your name and make all your contributions there. Raise a Pull Request. In the description write your issue number and explain.
+**4.** Wait for the Pull Request to get merged.
+**5.** After the successful merging fill the google form attached - 
 https://docs.google.com/forms/d/e/1FAIpQLSfH2-Ij2kK-y00QnOSCQIBsZo8x3oqB0bRKUEezUwuM1iywGg/viewform
 
 ## `Wanna Contribute :thinking:`
