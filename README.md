@@ -18,7 +18,7 @@
 
 **8.** Sweta Rani :woman_technologist:
 
-## Rules to be followed while contributing:-
+## `Rules while contributing`
 
 **1.** First fork the repository.
 
