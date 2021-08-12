@@ -32,7 +32,7 @@
 
 https://docs.google.com/forms/d/e/1FAIpQLSfH2-Ij2kK-y00QnOSCQIBsZo8x3oqB0bRKUEezUwuM1iywGg/viewform
 
-## `Wanna Contribute :thinking:`
+## `Wanna Contribute :thinking: `
 
 
 **1.** Fork the Exploring_friends repository.
