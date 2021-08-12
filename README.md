@@ -28,7 +28,7 @@
 
 **4.** Wait for the Pull Request to get merged.
 
-**5.** After the successful merging fill the google form attached [here](https://docs.google.com/forms/d/e/1FAIpQLSfH2-Ij2kK-y00QnOSCQIBsZo8x3oqB0bRKUEezUwuM1iywGg/viewform)
+**5.** After the successful merging fill the google form attached [here](https://docs.google.com/forms/d/e/1FAIpQLSfH2-Ij2kK-y00QnOSCQIBsZo8x3oqB0bRKUEezUwuM1iywGg/viewform) .
 
 
 ## `Wanna Contribute 🤔`
